@@ -152,11 +152,11 @@ html,body{height:100%;font-family:monospace;background:#050613;color:#fff}
   box-shadow: 0 8px 24px rgba(0,0,0,.6);
 }
 /* images — keep your original file names and folder */
-.shu:nth-child(1){ background-image: url("Images/Shu1.jpg"); }
-.shu:nth-child(2){ background-image: url("Images/Shu2.jpg"); }
-.shu:nth-child(3){ background-image: url("Images/Shu4.jpg"); }
-.shu:nth-child(4){ background-image: url("Images/ShuDrink.jpg"); }
-.shu:nth-child(5){ background-image: url("Images/Shu1.jpg"); }
+.shu:nth-child(1){ background-image: url("images/Shu1.jpg"); }
+.shu:nth-child(2){ background-image: url("images/Shu2.jpg"); }
+.shu:nth-child(3){ background-image: url("images/Shu4.jpg"); }
+.shu:nth-child(4){ background-image: url("images/ShuDrink.jpg"); }
+.shu:nth-child(5){ background-image: url("images/Shu1.jpg"); }
 
 .shu:active{ width:395px; }
 .long:active{ width:1270px; transition: width 1s; }
